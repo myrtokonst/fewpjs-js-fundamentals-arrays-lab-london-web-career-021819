@@ -3,7 +3,10 @@
 const append = ["Milo", "Otis", "Garfield"]
 append.push("Odie");
 
-const prepend = ["Milo", "Otis", "Garfield"].unshift("Oddie");
+const prepend = ["Milo", "Otis", "Garfield"]
+prepend.unshift("Oddie");
 
-const removeLast = ["Milo", "Otis", "Garfield"].pop();
-const removeFirst = ["Milo", "Otis", "Garfield"].shift();
+const removeLast = ["Milo", "Otis", "Garfield"]
+removeLast.pop();
+const removeFirst = ["Milo", "Otis", "Garfield"]
+removeFirst.shift();
