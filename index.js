@@ -1,5 +1,5 @@
 // Write your solution here!
-const append = ["Milo", "Otis", "Garfield"].push("Oddie")
+const append = ["Milo", "Otis", "Garfield"].push("Odie")
 
 const prepend = ["Milo", "Otis", "Garfield"].unshift("Oddie")
 
