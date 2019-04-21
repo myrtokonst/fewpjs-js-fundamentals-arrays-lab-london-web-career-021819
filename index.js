@@ -2,7 +2,7 @@
 
 const original = ["Milo", "Otis", "Garfield"]
 const append = original.push("Odie");
-append;
+
 const prepend = ["Milo", "Otis", "Garfield"].unshift("Oddie");
 
 const removeLast = ["Milo", "Otis", "Garfield"].pop();
